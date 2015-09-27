@@ -75,6 +75,7 @@ body {
 	padding-top: 0px;
 }
 
+
 .navbar.inv a {
 	color: #e4e6e5;
 
@@ -223,7 +224,7 @@ body {
 
 #slide-1 {
 	background-image: url('../images/Backyard+Zamru+for+website.jpg');
-	color: black;
+	color: white;
 	background-color: #002D6B;
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
@@ -244,7 +245,9 @@ body {
 
 
 	}
-
+ #slide-1 .clearfix {
+		color: white;
+	}
 @media (max-width: 767px) {
 	#slide-1 {
 		background-image: none;
