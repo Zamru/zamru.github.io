@@ -240,7 +240,7 @@ body {
 }
 	#slide-1 img{
 		display: inline;
-		max-width: 60%;
+		max-width: 50%;
 
 
 	}
@@ -389,6 +389,7 @@ body {
 	background-color: #ffffff;
 	color: #1c1c1c;
 	padding-top: 90px;
+	font-size: 20px;
 }
 
 	#slide-3 img {
@@ -401,6 +402,7 @@ body {
 	background-color: #34495e;
 	color: #e4e6e5;
 	padding-top: 90px;
+	font-size: 20px;
 }
 
 #slide-4 i {
@@ -413,6 +415,7 @@ body {
 	background-color: #448D5A;
 	color: #e4e6e5;
 	padding-top: 90px;
+	font-size: 20px;
 }
 
 #slide-5 img {
